@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   @pudu bellako <frase>
+//   @mauricio bellako <frase>
 //
 // Author:
 //   @jorgeepunan

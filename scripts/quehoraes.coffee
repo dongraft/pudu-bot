@@ -9,7 +9,7 @@
 #   HUBOT_WWO_API_URL
 #
 # Commands:
-#   @pudu hora en <ciudad>
+#   @mauricio hora en <ciudad>
 #
 # Notes
 #   Request an WWO API KEY in http://www.worldweatheronline.com/

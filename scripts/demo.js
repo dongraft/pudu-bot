@@ -8,12 +8,12 @@
 //   None
 //
 // Commands:
-//   @pudu demo channellist
-//   @pudu demo usernames
-//   @pudu demo DM to <username|channel|group>
-//   @pudu demo new topic <topic>
-//   @pudu demo new purpose ≤purpose>
-//   @pudu demo API <method> '<params>'
+//   @mauricio demo channellist
+//   @mauricio demo usernames
+//   @mauricio demo DM to <username|channel|group>
+//   @mauricio demo new topic <topic>
+//   @mauricio demo new purpose ≤purpose>
+//   @mauricio demo API <method> '<params>'
 //
 // Author:
 //   @eseceve

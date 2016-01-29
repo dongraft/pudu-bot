@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   pudu temblores [Chile|Mundo]
+//   mauricio temblores [Chile|Mundo]
 //
 // Author:
 //   jorgeepunan

@@ -1,5 +1,5 @@
 // Description:
-//   Pudu conversa contigo
+//   Mauricio conversa contigo
 //
 // Dependencies:
 //   None
@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   pudu |chao|c[oó]mo est[aá]s)
+//   mauricio |chao|c[oó]mo est[aá]s)
 //
 // Author:
 //   jorgeepunan

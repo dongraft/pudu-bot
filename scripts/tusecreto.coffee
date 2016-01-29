@@ -1,6 +1,6 @@
 # Description:
-#   Tu secreto queda entre tú y :pudu:
-#   Dile un secreto a @Pudu por DM y éste lo anunciará en el canal #random sin mencionarte.
+#   Tu secreto queda entre tú y :mauricio:
+#   Dile un secreto a @Mauricio por DM y éste lo anunciará en el canal #random sin mencionarte.
 #
 # Dependencies:
 #   None

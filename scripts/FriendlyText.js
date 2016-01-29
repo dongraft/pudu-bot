@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   @pudu amigable <texto> (max. 140 caracteres porq @gmq es un hacker)
+//   @mauricio amigable <texto> (max. 140 caracteres porq @gmq es un hacker)
 //
 // Author:
 //   @jorgeepunan

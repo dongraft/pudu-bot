@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   @pudu 420
+//   @mauricio 420
 //
 // Author:
 //   Camilo Castro - clsource © 2016
@@ -30,9 +30,9 @@ var jokes = [
   "¿Quién tiene quequitos mágicos?"
 ];
 
-module.exports = function(pudu) {
+module.exports = function(mauricio) {
 
-  pudu.respond(/420/i, function(res) {
+  mauricio.respond(/420/i, function(res) {
 
     var info = global420.next420();
     var message = "";

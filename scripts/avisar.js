@@ -8,10 +8,10 @@
 //   None
 //
 // Commands:
-//   @pudu avisar <message> en <room1>, <roomN>
-//   @pudu avisar help - Imprime una ayuda la ayuda del comando `avisar`
-//   @pudu avisar -h - alias de `@pudu avisar help`
-//   @pudu avisar ? - alias de `@pudu avisar help`
+//   @mauricio avisar <message> en <room1>, <roomN>
+//   @mauricio avisar help - Imprime una ayuda la ayuda del comando `avisar`
+//   @mauricio avisar -h - alias de `@mauricio avisar help`
+//   @mauricio avisar ? - alias de `@mauricio avisar help`
 //
 // Author:
 //   @eseceve

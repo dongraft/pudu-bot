@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   @pudu al azar <algo1>,<algo2>,<algoN>,
+//   @mauricio al azar <algo1>,<algo2>,<algoN>,
 //
 // Author:
 //   @jorgeepunan

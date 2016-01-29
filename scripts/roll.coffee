@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-# pudu dado
+# mauricio dado
 #
 # Author:
 #   Narzerus

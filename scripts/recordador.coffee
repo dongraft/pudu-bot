@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   @pudu recuerdame en <tiempo> que tengo que <accion>
+#   @mauricio recuerdame en <tiempo> que tengo que <accion>
 #
 #   <tiempo> semanas, dias, horas|hrs, segundos|segs
 #   <accion> comer, salir, leer ir al baño, cobrar el IVA...

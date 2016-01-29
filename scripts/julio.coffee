@@ -161,7 +161,7 @@ class Juliiiiiiito
       "escribir con las letras en grandecito",
       "poner la colita de chancho",
       "ponerle la cola al burro",
-      "negar hijo en mapudungun",
+      "negar hijo en mamauriciongun",
       "cambiarle el color a #esto",
       "cocinar niñitos envueltos receta",
       "comprar disket",

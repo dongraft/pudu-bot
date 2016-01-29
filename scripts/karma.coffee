@@ -8,7 +8,7 @@
 #   karma todos|all - shows all users' karama
 #   karma - shows all users' karama
 #
-# Adaptado para pudu por @clsource Camilo Castro
+# Adaptado para mauricio por @clsource Camilo Castro
 #  Basado en
 #   https://www.npmjs.com/package/hubot-karma
 

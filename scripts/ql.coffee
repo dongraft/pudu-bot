@@ -1,5 +1,5 @@
 # Description:
-#   pudu commits suicide if offended
+#   mauricio commits suicide if offended
 #
 # Dependencies:
 #   None
@@ -8,21 +8,21 @@
 #   None
 #
 # Commands:
-#   pudu ql
-#   pudu matate
+#   mauricio ql
+#   mauricio matate
 #
 # Author:
 #   jorgeepunan
 
 ascii = ["\n
 (҂._.)\n
-<,╤╦╤─ ҉ - - - - :pudu:\n
+<,╤╦╤─ ҉ - - - - :mauricio:\n
 /--\'\n
 ",
 "\n
 ━━━━━┓ ＼＼\n
 ┓┓┓┓┓┃\n
-┓┓┓┓┓┃    |:pudu:ノ ~ chaoooooo\n
+┓┓┓┓┓┃    |:mauricio:ノ ~ chaoooooo\n
 ┓┓┓┓┓┃ 　 /\n
 ┓┓┓┓┓┃  ノ)\n
 ┓┓┓┓┓┃\n
@@ -33,20 +33,20 @@ ascii = ["\n
   //       |\n
  ||  ✝     |\n
  || QEPD   |\n
- || pudu   |\n
+ || mauricio   |\n
  ||        |\n
  ||/ / // |/\n
 \n
 ",
 "
 :bomb: :bomb: :bomb:\n
-:bomb: :pudu: :bomb: :fire: ~ adiós mundo cruel\n
+:bomb: :mauricio: :bomb: :fire: ~ adiós mundo cruel\n
 :bomb: :bomb: :bomb:\n
 ",
 "\n
  _____\n
 |     |\n
-|     :pudu:\n
+|     :mauricio:\n
 |    /|\n
 |    / |\n
 |

@@ -1,5 +1,5 @@
 # Description
-#   Pudu votador
+#   Mauricio votador
 #
 # Dependencies:
 #   None
@@ -8,12 +8,12 @@
 #   None
 #
 # Commands:
-#   Ayuda: pudu votador help
-#   Crear votación: `pudu inicio votador item1, item2, item3, ...`
-#   Votar: `pudu voto (por) N` ~ donde N es el índice de la opción
-#   Mostrar Opciones: `pudu opciones votador`
-#   Mostrar conteo de votos actual: `pudu conteo votador`
-#   Finalizar votación: `pudu fin votador`
+#   Ayuda: mauricio votador help
+#   Crear votación: `mauricio inicio votador item1, item2, item3, ...`
+#   Votar: `mauricio voto (por) N` ~ donde N es el índice de la opción
+#   Mostrar Opciones: `mauricio opciones votador`
+#   Mostrar conteo de votos actual: `mauricio conteo votador`
+#   Finalizar votación: `mauricio fin votador`
 #
 # Notes:
 #   Base: https://github.com/joshingly/hubot-voting/blob/master/src/scripts/voting.coffee
@@ -59,11 +59,11 @@ module.exports = (robot) ->
 
   robot.respond /votador help/i, (msg) ->
     msg.send "*Comandos:*"
-    msg.send "Crear votación: `pudu inicio votador item1, item2, item3, ...`\n
-Votar: `pudu voto (por) N` ~ donde N es el índice de la opción\n
-Mostrar Opciones: `pudu opciones votador`\n
-Mostrar conteo de votos actual: `pudu conteo votador`\n
-Finalizar votación: `pudu fin votador`"
+    msg.send "Crear votación: `mauricio inicio votador item1, item2, item3, ...`\n
+Votar: `mauricio voto (por) N` ~ donde N es el índice de la opción\n
+Mostrar Opciones: `mauricio opciones votador`\n
+Mostrar conteo de votos actual: `mauricio conteo votador`\n
+Finalizar votación: `mauricio fin votador`"
 
   robot.respond /conteo votador/i, (msg) ->
     results = tallyVotes()

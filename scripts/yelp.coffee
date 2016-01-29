@@ -1,6 +1,6 @@
 # Description:
 #   Busca por restaurantes en Chile usando Yelp API 2.0.
-#   Exclusivo para Pudu Bot.
+#   Exclusivo para Mauricio Bot.
 #
 # Dependencies:
 #   "yelp": "0.1.1"
@@ -9,11 +9,11 @@
 #   Yelp tokens: http://www.yelp.com/developers/getting_started/api_access
 #
 # Commands:
-#   pudu yelp <tipo_de_comida> en/cerca/cerca de <comuna/zona>)?
+#   mauricio yelp <tipo_de_comida> en/cerca/cerca de <comuna/zona>)?
 #
 # Examples:
-#   pudu yelp vegetariano en providencia
-#   pudu yelp pizza cerca de el golf
+#   mauricio yelp vegetariano en providencia
+#   mauricio yelp pizza cerca de el golf
 #
 # Author:
 #   @jorgeepunan
@@ -24,7 +24,7 @@ consumer_secret = "Fwj7DmhtjnS_0fGEfKSWvBxqjBY"
 token = "ek4LtD0_QwbKSxs8go1MNgP_o1Kpne_g"
 token_secret = "731n3orAZfXl2iP1AK3TF2gxKPw"
 
-respuestas = [':pudu: ¡Ya sé!',':pudu: ¡Lo tengo!',':pudu: Intenta: ',':pudu: Mira :point_down::skin-tone-3:',':pudu: ¿Te tinca?']
+respuestas = [':mauricio: ¡Ya sé!',':mauricio: ¡Lo tengo!',':mauricio: Intenta: ',':mauricio: Mira :point_down::skin-tone-3:',':mauricio: ¿Te tinca?']
 
 yelp = require("yelp").createClient consumer_key: consumer_key, consumer_secret: consumer_secret, token: token, token_secret: token_secret
 
@@ -42,4 +42,4 @@ module.exports = (robot) ->
         msg.send msg.random respuestas
         msg.send template
       else
-        msg.send ":pudu: algo pasó y no sé qué fue. Intenta denuevo."
+        msg.send ":mauricio: algo pasó y no sé qué fue. Intenta denuevo."

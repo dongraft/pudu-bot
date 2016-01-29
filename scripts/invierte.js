@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   pudu invierte [string]
+//   mauricio invierte [string]
 //
 // Author:
 //   jorgeepunan
@@ -24,7 +24,7 @@ function flipString(aString){
   if (result !== '') {
     return result.join('');  
   } else {
-    return ':pudu: :gun:';
+    return ':mauricio: :gun:';
   }
   
 }

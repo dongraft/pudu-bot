@@ -1,5 +1,5 @@
 # Description:
-#   pudu yapo/nopo
+#   mauricio yapo/nopo
 #
 # Dependencies:
 #   None

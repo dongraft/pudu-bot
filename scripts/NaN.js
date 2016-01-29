@@ -16,7 +16,7 @@
 
 
 function batman(){
-  return Array(16).join('wat' - 1) + " Batman! ~ :pudu:";
+  return Array(16).join('wat' - 1) + " Batman! ~ :mauricio:";
 }
 
 module.exports = function(robot) {

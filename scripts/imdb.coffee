@@ -9,8 +9,8 @@
 #   None
 #
 # Commands:
-#   pudu <imdb|movie> <movie or serie>
-#   pudu <imdb|movie> <year|rate|plot|genre|director|actors|url> <movie or serie>
+#   mauricio <imdb|movie> <movie or serie>
+#   mauricio <imdb|movie> <year|rate|plot|genre|director|actors|url> <movie or serie>
 #
 # To do:
 #   Filter search by year or type (movie or serie) for more accuracy

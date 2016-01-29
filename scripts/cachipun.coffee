@@ -1,5 +1,5 @@
 # Description:
-#   Cachipún con :pudu:
+#   Cachipún con :mauricio:
 #
 # Dependencies:
 #   None
@@ -8,7 +8,7 @@
 #   none
 #
 # Commands:
-#   pudu cachipun piedra|papel|tijera
+#   mauricio cachipun piedra|papel|tijera
 #
 # Author:
 #   jorgeepunan
@@ -38,7 +38,7 @@ respuestas = (msg, userChoice) ->
 
   resultado = "¡Empate!" if not resultado
 
-  msg.send ":pudu: escoge #{choice}"
+  msg.send ":mauricio: escoge #{choice}"
   msg.send resultado
 
 module.exports = (robot) ->

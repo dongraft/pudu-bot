@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   pudu foto del d[ií]a
+//   mauricio foto del d[ií]a
 //
 // Author:
 //   jorgeepunan

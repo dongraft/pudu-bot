@@ -9,8 +9,8 @@
 # 	None
 #
 # Commands:
-# 	pudu lmgtfy <@usuario opcional> <consulta>
-# 	pudu google <@usuario opcional> <consulta>
+# 	mauricio lmgtfy <@usuario opcional> <consulta>
+# 	mauricio google <@usuario opcional> <consulta>
 #
 # Author:
 # 	Ravenous

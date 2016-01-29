@@ -22,4 +22,4 @@ module.exports = (robot) ->
     if msg.message.room == 'general'
       msg.send msg.random enterReplies
       msg.send "*@#{msg.message.user.name}* bienvenido a *#{msg.message.room}* :clap:"
-      msg.send "Soy @pudu amo y cuidador de este grupo. Sírvase presentarte en #introductions y unirte a las discusiones de alguno de los canales de tu interés."
+      msg.send "Soy @mauricio amo y cuidador de este grupo. Sírvase presentarte en #introductions y unirte a las discusiones de alguno de los canales de tu interés."

@@ -13,7 +13,7 @@ module.exports = (robot) ->
   robot.hear /^ke\W/i, (res) ->
     res.send "¿Qué?*"
   robot.hear /^pudo animate/i, (res) ->
-    res.send "lrn2pudu"
+    res.send "lrn2mauricio"
   # robot.hear /cafe/i, (res) ->
   #   res.send "¿«Café», dices?"
 
